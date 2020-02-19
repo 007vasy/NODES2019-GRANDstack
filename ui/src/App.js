@@ -156,7 +156,7 @@ class App extends Component {
                 noWrap
                 className={classes.title}
               >
-                Welcome To NODES GRANDstack
+                Welcome To Swap-A-Porter
               </Typography>
             </Toolbar>
           </AppBar>

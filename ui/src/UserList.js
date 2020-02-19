@@ -77,7 +77,7 @@ class UserList extends React.Component {
     return (
       <Paper className={classes.root}>
         <Typography variant="h2" gutterBottom>
-          NODES 2019 Session List
+          Dress List
         </Typography>
         <TextField
           id="search"
